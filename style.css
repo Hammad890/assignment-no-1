@@ -1,0 +1,38 @@
+h1,h2
+             {
+             font-family:Arial;
+             color:rgb(4, 95, 31);
+            background-color: brown;
+            }
+             button 
+             {
+                background-color: chartreuse;
+                font-size: large;
+                font-style: italic;
+                color:rgb(11, 0, 15)}
+                table
+                {
+                    font-size: medium;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    outline-color: chartreuse;
+                    color: darkmagenta;
+                }
+                tr
+                {
+                    font-family: 'Times New Roman', Times, serif;
+                    color: gray;
+                }
+                td
+                {
+                    background-color: rgb(10, 122, 150);
+                    font-family: fantasy;
+                    color: rgb(187, 184, 19);
+                    font-style: oblique;
+                }
+                th
+                {
+                    background-color: chocolate;
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: rgb(46, 2, 2);
+                }
+             
