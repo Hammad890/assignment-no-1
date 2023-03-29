@@ -11,6 +11,13 @@
     let string_value=""
     while(string_value !== "okay")  
    string_value= prompt ("we are using your data type okay to continue")
+
+   let sum=0;
+   for (let i=1;i<=10;i=i+1){
+    sum += i;
+   }
+   console.log(sum)
+
     
  
     
